@@ -5,7 +5,7 @@ Android自定义view之仿ios-appstore下载进度按钮可设置大小，高度
 ###先上效果
 程序员不懂设计，大家可以自己配色换图（凑合看看）
 
-![效果](http://img.my.csdn.net/uploads/201607/20/1468993463_6070.gif)
+![效果](https://github.com/wzgiceman/DownProgressView/blob/master/gif/ios_progress.gif)
 
 ###使用
 ```java
